@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{701E038E-74CB-46DC-8B1B-2A8E472B5466}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AppsProgrammeren_Eindopdracht2/PublicTransport.cs">
+    <Files>
+      <File FileName="AppsProgrammeren_Eindopdracht2/MainActivity.cs" Line="20" Column="66" />
+      <File FileName="AppsProgrammeren_Eindopdracht2/PublicTransport.cs" Line="69" Column="43" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AppsProgrammeren__Eindopdracht2 AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
+  <MultiItemStartupConfigurations />
+</Properties>

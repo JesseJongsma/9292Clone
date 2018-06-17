@@ -1,0 +1,56 @@
+/Users/melinda/Documents/Visual Studio 2017/Projects/AppsProgrammeren_Eindopdracht2/AppsProgrammeren_Eindopdracht2/bin/Debug/AppsProgrammeren_Eindopdracht2.dll
+/Users/melinda/Documents/Visual Studio 2017/Projects/AppsProgrammeren_Eindopdracht2/AppsProgrammeren_Eindopdracht2/bin/Debug/AppsProgrammeren_Eindopdracht2.pdb
+/Users/melinda/Documents/Visual Studio 2017/Projects/AppsProgrammeren_Eindopdracht2/AppsProgrammeren_Eindopdracht2/bin/Debug/com.eindopdracht.appsprogrammeren.AppsProgrammeren_Eindopdracht2.apk
+/Users/melinda/Documents/Visual Studio 2017/Projects/AppsProgrammeren_Eindopdracht2/AppsProgrammeren_Eindopdracht2/bin/Debug/com.eindopdracht.appsprogrammeren.AppsProgrammeren_Eindopdracht2-Signed.apk
+/Users/melinda/Documents/Visual Studio 2017/Projects/AppsProgrammeren_Eindopdracht2/AppsProgrammeren_Eindopdracht2/obj/Debug/AppsProgrammeren_Eindopdracht2.csproj.CoreCompileInputs.cache
+/Users/melinda/Documents/Visual Studio 2017/Projects/AppsProgrammeren_Eindopdracht2/AppsProgrammeren_Eindopdracht2/obj/Debug/AppsProgrammeren_Eindopdracht2.dll
+/Users/melinda/Documents/Visual Studio 2017/Projects/AppsProgrammeren_Eindopdracht2/AppsProgrammeren_Eindopdracht2/obj/Debug/AppsProgrammeren_Eindopdracht2.pdb
+/Users/melinda/Documents/Visual Studio 2017/Projects/AppsProgrammeren_Eindopdracht2/AppsProgrammeren_Eindopdracht2/obj/Debug/android/bin/com.eindopdracht.appsprogrammeren.AppsProgrammeren_Eindopdracht2.apk
+/Users/melinda/Documents/Visual Studio 2017/Projects/AppsProgrammeren_Eindopdracht2/AppsProgrammeren_Eindopdracht2/obj/Debug/res/layout/main.xml
+/Users/melinda/Documents/Visual Studio 2017/Projects/AppsProgrammeren_Eindopdracht2/AppsProgrammeren_Eindopdracht2/obj/Debug/res/values/strings.xml
+/Users/melinda/Documents/Visual Studio 2017/Projects/AppsProgrammeren_Eindopdracht2/AppsProgrammeren_Eindopdracht2/obj/Debug/R.cs.flag
+/Users/melinda/Documents/Visual Studio 2017/Projects/AppsProgrammeren_Eindopdracht2/AppsProgrammeren_Eindopdracht2/obj/Debug/uploadflags.txt
+/Users/melinda/Documents/Visual Studio 2017/Projects/AppsProgrammeren_Eindopdracht2/AppsProgrammeren_Eindopdracht2/bin/Debug/Mono.Android.pdb
+/Users/melinda/Documents/Visual Studio 2017/Projects/AppsProgrammeren_Eindopdracht2/AppsProgrammeren_Eindopdracht2/obj/Debug/linksrc/AppsProgrammeren_Eindopdracht2.pdb
+/Users/melinda/Documents/Visual Studio 2017/Projects/AppsProgrammeren_Eindopdracht2/AppsProgrammeren_Eindopdracht2/obj/Debug/linksrc/Mono.Android.pdb
+C:\Projects\AppsProgrammeren_Eindopdracht\AppsProgrammeren_Eindopdracht2\bin\Debug\AppsProgrammeren_Eindopdracht2.dll
+C:\Projects\AppsProgrammeren_Eindopdracht\AppsProgrammeren_Eindopdracht2\bin\Debug\AppsProgrammeren_Eindopdracht2.pdb
+C:\Projects\AppsProgrammeren_Eindopdracht\AppsProgrammeren_Eindopdracht2\bin\Debug\com.eindopdracht.appsprogrammeren.AppsProgrammeren_Eindopdracht2.apk
+C:\Projects\AppsProgrammeren_Eindopdracht\AppsProgrammeren_Eindopdracht2\bin\Debug\com.eindopdracht.appsprogrammeren.AppsProgrammeren_Eindopdracht2-Signed.apk
+C:\Projects\AppsProgrammeren_Eindopdracht\AppsProgrammeren_Eindopdracht2\obj\Debug\AppsProgrammeren_Eindopdracht2.csprojResolveAssemblyReference.cache
+C:\Projects\AppsProgrammeren_Eindopdracht\AppsProgrammeren_Eindopdracht2\obj\Debug\AppsProgrammeren_Eindopdracht2.csproj.CoreCompileInputs.cache
+C:\Projects\AppsProgrammeren_Eindopdracht\AppsProgrammeren_Eindopdracht2\obj\Debug\AppsProgrammeren_Eindopdracht2.dll
+C:\Projects\AppsProgrammeren_Eindopdracht\AppsProgrammeren_Eindopdracht2\obj\Debug\AppsProgrammeren_Eindopdracht2.pdb
+C:\Projects\AppsProgrammeren_Eindopdracht\AppsProgrammeren_Eindopdracht2\obj\Debug\android\bin\com.eindopdracht.appsprogrammeren.AppsProgrammeren_Eindopdracht2.apk
+C:\Projects\AppsProgrammeren_Eindopdracht\AppsProgrammeren_Eindopdracht2\obj\Debug\res\layout\main.xml
+C:\Projects\AppsProgrammeren_Eindopdracht\AppsProgrammeren_Eindopdracht2\obj\Debug\res\values\strings.xml
+C:\Projects\AppsProgrammeren_Eindopdracht\AppsProgrammeren_Eindopdracht2\obj\Debug\R.cs.flag
+C:\Projects\AppsProgrammeren_Eindopdracht\AppsProgrammeren_Eindopdracht2\obj\Debug\uploadflags.txt
+C:\Projects\AppsProgrammeren_Eindopdracht\AppsProgrammeren_Eindopdracht2\bin\Debug\Mono.Android.pdb
+C:\Projects\AppsProgrammeren_Eindopdracht\AppsProgrammeren_Eindopdracht2\obj\Debug\android\assets\AppsProgrammeren_Eindopdracht2.pdb
+C:\Projects\AppsProgrammeren_Eindopdracht\AppsProgrammeren_Eindopdracht2\obj\Debug\android\assets\Mono.Android.pdb
+C:\Projects\AppsProgrammeren_Eindopdracht\AppsProgrammeren_Eindopdracht2\obj\Debug\linksrc\AppsProgrammeren_Eindopdracht2.pdb
+C:\Projects\AppsProgrammeren_Eindopdracht\AppsProgrammeren_Eindopdracht2\obj\Debug\linksrc\Mono.Android.pdb
+C:\Projects\AppsProgrammeren_Eindopdracht\AppsProgrammeren_Eindopdracht2\bin\Debug\mscorlib.pdb
+C:\Projects\AppsProgrammeren_Eindopdracht\AppsProgrammeren_Eindopdracht2\bin\Debug\System.Core.pdb
+C:\Projects\AppsProgrammeren_Eindopdracht\AppsProgrammeren_Eindopdracht2\bin\Debug\System.pdb
+C:\Projects\AppsProgrammeren_Eindopdracht\AppsProgrammeren_Eindopdracht2\bin\Debug\System.Xml.pdb
+C:\Projects\AppsProgrammeren_Eindopdracht\AppsProgrammeren_Eindopdracht2\bin\Debug\System.Net.Http.pdb
+C:\Projects\AppsProgrammeren_Eindopdracht\AppsProgrammeren_Eindopdracht2\bin\Debug\System.Runtime.Serialization.pdb
+C:\Projects\AppsProgrammeren_Eindopdracht\AppsProgrammeren_Eindopdracht2\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Projects\AppsProgrammeren_Eindopdracht\AppsProgrammeren_Eindopdracht2\bin\Debug\Mono.Security.pdb
+C:\Projects\AppsProgrammeren_Eindopdracht\AppsProgrammeren_Eindopdracht2\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Projects\AppsProgrammeren_Eindopdracht\AppsProgrammeren_Eindopdracht2\obj\Debug\linksrc\mscorlib.pdb
+C:\Projects\AppsProgrammeren_Eindopdracht\AppsProgrammeren_Eindopdracht2\obj\Debug\linksrc\System.Core.pdb
+C:\Projects\AppsProgrammeren_Eindopdracht\AppsProgrammeren_Eindopdracht2\obj\Debug\linksrc\System.pdb
+C:\Projects\AppsProgrammeren_Eindopdracht\AppsProgrammeren_Eindopdracht2\obj\Debug\linksrc\System.Xml.pdb
+C:\Projects\AppsProgrammeren_Eindopdracht\AppsProgrammeren_Eindopdracht2\obj\Debug\linksrc\System.Net.Http.pdb
+C:\Projects\AppsProgrammeren_Eindopdracht\AppsProgrammeren_Eindopdracht2\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+C:\Projects\AppsProgrammeren_Eindopdracht\AppsProgrammeren_Eindopdracht2\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+C:\Projects\AppsProgrammeren_Eindopdracht\AppsProgrammeren_Eindopdracht2\obj\Debug\linksrc\Mono.Security.pdb
+C:\Projects\AppsProgrammeren_Eindopdracht\AppsProgrammeren_Eindopdracht2\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+C:\Projects\AppsProgrammeren_Eindopdracht\AppsProgrammeren_Eindopdracht2\obj\Debug\linksrc\AppsProgrammeren_Eindopdracht2.dll.mdb
+C:\Projects\AppsProgrammeren_Eindopdracht\AppsProgrammeren_Eindopdracht2\bin\Debug\AppsProgrammeren_Eindopdracht2.dll.mdb
+C:\Projects\AppsProgrammeren_Eindopdracht\AppsProgrammeren_Eindopdracht2\obj\Debug\android\assets\AppsProgrammeren_Eindopdracht2.dll.mdb
+C:\Projects\AppsProgrammeren_Eindopdracht\AppsProgrammeren_Eindopdracht2\bin\Debug\AppsProgrammeren_Eindopdracht2.dll
+C:\Projects\AppsProgrammeren_Eindopdracht\AppsProgrammeren_Eindopdracht2\obj\Debug\linksrc\AppsProgrammeren_Eindopdracht2.dll.mdb
