@@ -30,12 +30,15 @@ namespace AppsProgrammeren_Eindopdracht2
             //Assign The Event To Button
             button.Click += delegate
             {
-
                 //Call Your Method When User Clicks The Button
                 clickButtonSearch();
             };
         }
 
+        /// <summary>
+        /// This method keeps the location up-to-date in the program
+        /// </summary>
+        /// <param name="location">The current location of the GPS</param>
         public void OnLocationChanged(Location location)
         {
             // Show toast of location
@@ -44,11 +47,19 @@ namespace AppsProgrammeren_Eindopdracht2
             _coordinates = lat.ToString() + ", " + lon.ToString();
         }
 
+        /// <summary>
+        /// This method is called while GPS is disabled
+        /// </summary>
+        /// <param name="provider"></param>
         public void OnProviderDisabled(string provider)
         {
             Toast.MakeText(this, "Please enable GPS.", ToastLength.Short).Show();
         }
 
+        /// <summary>
+        /// This method is called while GPS is enabled 
+        /// </summary>
+        /// <param name="provider"></param>
         public void OnProviderEnabled(string provider) { }
 
         public void OnStatusChanged(string provider, [GeneratedEnum] Availability status, Bundle extras)
@@ -59,6 +70,9 @@ namespace AppsProgrammeren_Eindopdracht2
             }
         }
 
+        /// <summary>
+        /// Retrieve and display the routes when the user presses the submit button
+        /// </summary>
         public void clickButtonSearch()
         {
             string locationText = FindViewById<EditText>(Resource.Id.location).Text;
@@ -71,16 +85,10 @@ namespace AppsProgrammeren_Eindopdracht2
             }
             catch (Exception e)
             {
-                // 1. Instantiate an AlertDialog.Builder with its constructor
+                // Show a dialog with the error
                 AlertDialog.Builder builder = new AlertDialog.Builder(this);
-
-                // 2. Chain together various setter methods to set the dialog characteristics
                 builder.SetMessage(e.ToString())
                        .SetTitle("Error");
-
-
-
-                // 3. Get the AlertDialog from create()
                 AlertDialog dialog = builder.Create();
                 dialog.Show();
             }

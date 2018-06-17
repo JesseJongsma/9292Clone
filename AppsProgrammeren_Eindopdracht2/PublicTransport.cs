@@ -58,8 +58,9 @@ namespace AppsProgrammeren_Eindopdracht2
         {
             List<string> transitSteps = new List<string>();
             JSONObject geoData = new JSONObject(GetPublicTransportData());
-            string status = geoData.GetString("status");
 
+            // Check if the program found the location
+            string status = geoData.GetString("status");
             if (status.ToString() != "OK")
             {
                 string[] error = new string[1];
